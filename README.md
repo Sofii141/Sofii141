@@ -4,7 +4,8 @@
 - 🌱 I’m currently diving into **Artificial Intelligence (AI)** and **Angular**, while refining my skills in **ASP.NET MVC**, **Oracle SQL**, and **real-time validations**, **Java**, **Web Developer**
 - 💡 I love working on **intelligent systems**, **efficient databases**, and exploring how **computing power** can be optimized at both hardware and software levels.  
 - 💞️ I’m open to collaborating on projects involving **AI applications**, **web development**, and **performance optimization**.  
-- 📫 How to reach me: Connect with me through GitHub or my professional networks. My email: anaarangowt@unicauca.edu.co  
+- 📫 How to reach me: Connect with me through GitHub or my professional networks. My email: anaarangowt@unicauca.edu.co
+- ✨ Ig: sofia22ana
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I enjoy breaking down complex systems, whether it's a neural network, an automaton, or the inner workings of a processor! 🚀
 
