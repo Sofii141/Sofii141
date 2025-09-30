@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  Desarrolladora de 🇨🇴 Colombia, apasionada por construir aplicaciones web robustas y escalables.
+  Desarrolladora de Colombia, apasionada por construir aplicaciones web robustas y escalables.
   <br>
   Mi objetivo es fusionar el desarrollo <b>Full-Stack</b> con la <b>Inteligencia Artificial</b> para crear productos innovadores y con experiencias de usuario inteligentes.
 </p>
