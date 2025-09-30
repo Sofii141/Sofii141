@@ -15,7 +15,7 @@
 
 - 🌱 Actualmente estoy profundizando en arquitecturas para aplicaciones de **IA** y explorando las últimas tendencias en **desarrollo web**.
 - 💞️ Busco colaborar en proyectos desafiantes que me permitan integrar modelos de Machine Learning en entornos web.
-- 💬 Me encanta hablar sobre **arquitectura de software, optimización de bases de datos y algoritmos de IA**.
+- 💬 Me encanta hablar sobre **arquitectura de software y algoritmos de IA**.
 
 ---
 
