@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" width="100%" alt="banner"/>
-</div>
+<img width="2320" height="462" alt="Gemini_Generated_Image_v5swqvv5swqvv5sw" src="https://github.com/user-attachments/assets/d101be60-b4ed-48a9-9ad9-812094502f3c" />
 
 <div align="center">
 
