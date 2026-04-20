@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/hfpnmXFgenTjRYN24b/giphy.gif" width="230" />
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="230" />
 
 - 🎓 &nbsp; Systems Engineering student at **Universidad del Cauca**, Colombia
 - 💡 &nbsp; Passionate about building robust, scalable web applications
