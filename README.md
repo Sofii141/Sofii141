@@ -99,6 +99,6 @@
 
 <br>
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*AI doesn’t replace creativity—it amplifies it.*
 
 </div>
