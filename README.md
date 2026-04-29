@@ -101,4 +101,6 @@
 
 *AI doesn’t replace creativity—it amplifies it.*
 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b6ea08b5-23d6-4433-aa4a-e691107960b1" />
 </div>
+
